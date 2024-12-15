@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/amir/Documents/dotnet/api/api.csproj",
+      "projectUniqueName": "/Users/amir/Documents/dotnet/dotnetTuts/api.csproj",
       "projectName": "api",
-      "projectPath": "/Users/amir/Documents/dotnet/api/api.csproj",
+      "projectPath": "/Users/amir/Documents/dotnet/dotnetTuts/api.csproj",
       "packagesPath": "/Users/amir/.nuget/packages/",
-      "outputPath": "/Users/amir/Documents/dotnet/api/obj/",
+      "outputPath": "/Users/amir/Documents/dotnet/dotnetTuts/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/amir/.nuget/NuGet/NuGet.Config"
